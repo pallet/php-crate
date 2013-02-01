@@ -2,7 +2,7 @@
 
 This a crate to install and run php via [Pallet](http://pallet.github.com/pallet).
 
-[Release Notes](https://github.com/pallet/php-crate/blob/master/ReleaseNotes.md)
+[Release Notes](ReleaseNotes.md)
 
 ## Support
 
